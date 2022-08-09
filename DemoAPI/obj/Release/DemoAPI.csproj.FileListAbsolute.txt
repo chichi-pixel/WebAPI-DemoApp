@@ -1,0 +1,2 @@
+C:\Users\hatic\source\repos\WebAPI DemoApp\DemoAPI\obj\Release\DemoAPI.csproj.AssemblyReference.cache
+C:\Users\hatic\source\repos\WebAPI DemoApp\DemoAPI\obj\Release\DemoAPI.csproj.CoreCompileInputs.cache
